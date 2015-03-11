@@ -12,9 +12,10 @@ prior to writing any code.
 Pre-coding
 ----------
 
-  * The game's name will be "Box Tanks" (TODO: make sure that
-    this fits whatever we decide on for requirements)
+  * The game's name will be 'Box Tanks'
   * The game will be written in Javascript!!!
+  * The game will be browser-based
+  * The game should be downloadable
 
 
 Classes
