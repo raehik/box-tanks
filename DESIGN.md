@@ -12,7 +12,7 @@ prior to writing any code.
 Pre-coding
 ----------
 
-  * The game's name will be "Box Tank Physics" (TODO: make sure that
+  * The game's name will be "Box Tanks" (TODO: make sure that
     this fits whatever we decide on for requirements)
   * The game will be written in Javascript!!!
 
