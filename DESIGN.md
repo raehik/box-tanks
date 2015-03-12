@@ -1,5 +1,4 @@
-Design
-======
+# Design
 
 This document shall show how the game is to be built from different
 blocks.
@@ -12,21 +11,23 @@ Pre-coding
 ----------
 
   * The game's name will be 'Box Tanks'
-  * The game will be written in Javascript!!!
+  * The game will be written in JavaScript
   * The game will be browser-based
   * The game should be downloadable
  
 Possibilities 
 -------------
   * There could be server hosted multiplayer
-(Though this is all of the list for now this list is possibly the only one that will be added to throughout the project as we are always looking for new ideas for the game!!!)
 
-The Sad News
-------------
-  * NO 3D (I think)
-  * Design probably won't be the work of the century
+Rendering
+---------
+  * Should be in 3D
+  * We will probably end up rendering using simple geometric shapes (e.g. voxels)
+
+Misc
+----
+
   * We don't have that many people working on this repository so progress will be slow
-  * I (BadgerBoy1002) am a noob at Blender...wait does that even matter?
 
 Classes
 -------
