@@ -4,7 +4,7 @@ Design
 This document shall show how the game is to be built from different
 blocks.
 
-As of 2015-03-09, most details are still to be figured out, and I think
+As of never, most details are still to be figured out, and I think
 rather than diving right into coding we should design the game we want
 prior to writing any code.
 
